@@ -1,0 +1,11 @@
+{
+    "name": "ResourceMult",
+    "version": "0.0.1",
+    "title": "Resource Multiplier Mod",
+    "author": "AcapSkyrim",
+    "contact": "Fire_Genasi@rocketmail.com",
+    "homepage": "",
+    "factorio_version": "0.17.54",
+    "dependencies": ["base >= 0.17.54"],
+    "description": "This mod causes mining drills to mine more, and furnaces to cook more"
+}
